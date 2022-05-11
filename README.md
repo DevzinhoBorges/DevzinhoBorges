@@ -1,5 +1,4 @@
-### Hi, I'm Devzinho Borges 👨🏾‍💻
-##
+<h1 align="center">Hi, I'm Devzinho Borges 👨🏾‍💻</h1>
 
 <div align="center">
   <a href="https://github.com/devzinhoborges">
